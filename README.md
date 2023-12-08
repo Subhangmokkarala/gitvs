@@ -1,2 +1,2 @@
 # gitvs
-init gigit repo for codespaces
+init git repo for codespaces
